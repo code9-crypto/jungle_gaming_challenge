@@ -1,5 +1,5 @@
 import { Link, Outlet } from "@tanstack/react-router";
-import LoginModal from "./modal_login_cadastrar/loginModal";
+import LoginModal from "./modal_login_cadastrar/LoginModal";
 import "./App.css";
 import { useState } from "react";
 
